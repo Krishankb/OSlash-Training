@@ -1,3 +1,5 @@
+// Simple calculator function to produce the math operation
+
 public class Calculator{
 
   public int add(int a,int b) {
