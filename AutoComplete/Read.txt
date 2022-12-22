@@ -1,0 +1,4 @@
+There are various algorithms used 
+Trie
+Array
+Fuzzy Search
